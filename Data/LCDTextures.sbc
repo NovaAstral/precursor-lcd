@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <LCDTextures>
+        <LCDTextureDefinition>
+        <!-- smonked -->
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>smonked</SubtypeId>
+            </Id>
+            <LocalizationId>smonked</LocalizationId>
+            <TexturePath>Textures\LCD\smonked.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- sugged -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>sugged</SubtypeId>
+            </Id>
+            <LocalizationId>sugged</LocalizationId>
+            <TexturePath>Textures\LCD\sugged.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- warped -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>warped</SubtypeId>
+            </Id>
+            <LocalizationId>warped</LocalizationId>
+            <TexturePath>Textures\LCD\warped.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- mckay -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>mckay</SubtypeId>
+            </Id>
+            <LocalizationId>mckay</LocalizationId>
+            <TexturePath>Textures\LCD\fart.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- meth -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>meth</SubtypeId>
+            </Id>
+            <LocalizationId>meth</LocalizationId>
+            <TexturePath>Textures\LCD\meth.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- shroomboat -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>shroomboat</SubtypeId>
+            </Id>
+            <LocalizationId>shroomboat</LocalizationId>
+            <TexturePath>Textures\LCD\shroomboat.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- stabbed -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>stabbed</SubtypeId>
+            </Id>
+            <LocalizationId>stabbed</LocalizationId>
+            <TexturePath>Textures\LCD\stabbed.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+
+        <!-- cumvisor -->
+        <LCDTextureDefinition>
+            <Id>
+                <TypeId>LCDTextureDefinition</TypeId>
+                <SubtypeId>cumvisor</SubtypeId>
+            </Id>
+            <LocalizationId>cumvisor</LocalizationId>
+            <TexturePath>Textures\LCD\cumvisor.dds</TexturePath>
+            <TextureResolution>512</TextureResolution>
+            <TextureAspectRadio>1</TextureAspectRadio>
+        </LCDTextureDefinition>
+    </LCDTextures>
+</Definitions>
